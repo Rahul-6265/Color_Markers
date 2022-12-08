@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.parent {
+    box-shadow: 5px 5px 10px 10px rgba(128, 128, 128, 0.452);
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+
+
+}
+
+.child1 {
+    width: 100px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#6c020a, #ff5e7e, #6c020a);
+}
+
+
+
+.child2 {
+    width: 200px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#6c020a, #ff5e7e, #6c020a);
+    opacity: 0.5;
+    filter: blur(2px);
+
+}
+
+.child3 {
+    width: 30px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#6c020a, #ff5e7e, #6c020a);
+}
+
+.line {
+    width: 5px;
+    height: 50px;
+    background-color: black;
+    box-shadow: 10px 0px black;
+}
+
+
+.parent2 {
+    box-shadow: 5px 5px 10px 10px rgba(128, 128, 128, 0.452);
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.child4 {
+    width: 100px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#0f5803, #68ee51, #0f5803);
+}
+
+
+
+.child5 {
+    width: 200px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#0f5803, #68ee51, #0f5803);
+    opacity: 0.5;
+    filter: blur(2px);
+
+}
+
+.child6 {
+    width: 30px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#0f5803, #68ee51, #0f5803);
+}
+
+.line {
+    width: 5px;
+    height: 50px;
+    background-color: black;
+    box-shadow: 10px 0px black;
+}
+
+
+
+.parent3 {
+    box-shadow: 5px 5px 10px 10px rgba(128, 128, 128, 0.452);
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+
+
+}
+
+.child7 {
+    width: 100px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#05287b, #3d77ff, #05287b);
+}
+
+
+
+.child8 {
+    width: 200px;
+    height: 50px;
+    /* border: 2px solid red; */
+    background: linear-gradient(#05287b, #3d77ff, #05287b);
+    opacity: 0.5;
+    filter: blur(2px);
+
+}
+
+.child9 {
+    width: 30px;
+    height: 50px;
+    background: linear-gradient(#05287b, #3d77ff, #05287b);
+}
+
+.line {
+    width: 5px;
+    height: 50px;
+    background-color: black;
+    box-shadow: 10px 0px black;
+}
+h1{
+    text-align: center;
+}
